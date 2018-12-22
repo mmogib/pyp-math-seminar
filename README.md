@@ -12,4 +12,4 @@ To use these jupyter notebooks, you need to
 1. Install [Anaconda](https://www.anaconda.com/), which is a python distribution
 2. Download this respiratory.
 
-For any further assistant, please contact me directly (you k
+For any further assistant, please contact me directly.
